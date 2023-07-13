@@ -16,6 +16,7 @@ public class Wugga {
     public static void baffle() {
         System.out.print("wug");
         ping();
+
     }
 
     public static void ping() {

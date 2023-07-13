@@ -1,7 +1,6 @@
 public class Exercise {
 
-    public static void main(String[] args) {
-        loop(10);
+    public static void main(String[] args) {loop(998);
     }
 
     public static void loop(int n) {

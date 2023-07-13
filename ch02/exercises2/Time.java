@@ -1,4 +1,4 @@
-package exercises;
+package exercises2;
 
 public class Time {
     public static void main(String[] args) {
